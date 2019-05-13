@@ -1,0 +1,6 @@
+framework module Pods_ParPoAppUITests {
+  umbrella header "Pods-ParPoAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
